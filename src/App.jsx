@@ -1,16 +1,9 @@
-import './App.css';
-
-const App = () => {
+function App() {
   return (
-    <>
-      <h1>
-        Vite + React + Tailwind
-      </h1>
-      <p>
-        This is a basic template file to use tailwindCSS
-      </p>
-    </>
-  );
-};
+    <div className="w-screen h-screen bg-red-300">
+
+    </div>
+  )
+}
 
 export default App;
