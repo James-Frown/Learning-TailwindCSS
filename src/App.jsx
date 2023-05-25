@@ -91,11 +91,13 @@ function App() {
           <p className="
           text-base
           ">
-            static          </p>
+            static
+          </p>
           <p className="
           text-base
           ">
-            fixed          </p>
+            fixed
+          </p>
           <p className="
           text-base
           ">
@@ -117,11 +119,13 @@ function App() {
           <p className="
           text-base
           ">
-            shadow          </p>
+            shadow
+          </p>
           <p className="
           text-base
           ">
-            shadow-inner          </p>
+            shadow-inner
+          </p>
           <p className="
           text-base
           ">
@@ -131,6 +135,34 @@ function App() {
           text-base
           ">
             shadow-none
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Opacity:
+          </p>
+          <p className="
+          text-base
+          ">
+            opacity-0
+          </p>
+          <p className="
+          text-base
+          ">
+            opacity-50
+          </p>
+          <p className="
+          text-base
+          ">
+            opacity-75
+          </p>
+          <p className="
+          text-base
+          ">
+            opacity-100
           </p>
         </div>
 
