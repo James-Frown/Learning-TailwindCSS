@@ -25,9 +25,6 @@ function App() {
             This is where i have learnt about tailwind...
           </p>
         </div>
-        <div>
-          <flexer />
-        </div>
       </div>
     </>
   )
