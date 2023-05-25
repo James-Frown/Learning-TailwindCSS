@@ -310,27 +310,55 @@ function App() {
           <p className="
           text-base
           ">
-            This is Text Align:
+            This is Text Color:
           </p>
           <p className="
           text-base
           ">
-            text-left
+            text-transparent
           </p>
           <p className="
           text-base
           ">
-            text-center
+            text-current
           </p>
           <p className="
           text-base
           ">
-            text-right
+            text-black
           </p>
           <p className="
           text-base
           ">
-            text-justify
+            text-white
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Text Color:
+          </p>
+          <p className="
+          text-base
+          ">
+            text-transparent
+          </p>
+          <p className="
+          text-base
+          ">
+            text-current
+          </p>
+          <p className="
+          text-base
+          ">
+            text-black
+          </p>
+          <p className="
+          text-base
+          ">
+            text-white
           </p>
         </div>
 
