@@ -25,6 +25,33 @@ function App() {
             This is where i have learnt about tailwind...
           </p>
         </div>
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Display:
+          </p>
+          <p className="
+          text-base
+          ">
+            block
+          </p>
+          <p className="
+          text-base
+          ">
+            flex
+          </p>
+          <p className="
+          text-base
+          ">
+            contents
+          </p>
+          <p className="
+          text-base
+          ">
+            hidden
+          </p>
+        </div>
       </div>
     </>
   )
