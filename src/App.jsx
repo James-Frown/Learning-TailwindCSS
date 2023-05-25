@@ -166,6 +166,174 @@ function App() {
           </p>
         </div>
 
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Padding:
+          </p>
+          <p className="
+          text-base
+          ">
+            p-0
+          </p>
+          <p className="
+          text-base
+          ">
+            p-2
+          </p>
+          <p className="
+          text-base
+          ">
+            p-4
+          </p>
+          <p className="
+          text-base
+          ">
+            p-8
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Margin:
+          </p>
+          <p className="
+          text-base
+          ">
+            m-0
+          </p>
+          <p className="
+          text-base
+          ">
+            m-2
+          </p>
+          <p className="
+          text-base
+          ">
+            m-4
+          </p>
+          <p className="
+          text-base
+          ">
+            m-8
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Space Between:
+          </p>
+          <p className="
+          text-base
+          ">
+            space-x-0
+          </p>
+          <p className="
+          text-base
+          ">
+            space-x-4
+          </p>
+          <p className="
+          text-base
+          ">
+            -space-x-2
+          </p>
+          <p className="
+          text-base
+          ">
+            -space-x-4
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Font Size:
+          </p>
+          <p className="
+          text-base
+          ">
+            text-xs
+          </p>
+          <p className="
+          text-base
+          ">
+            text-base
+          </p>
+          <p className="
+          text-base
+          ">
+            text-5xl
+          </p>
+          <p className="
+          text-base
+          ">
+            text-8xl
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Text Align:
+          </p>
+          <p className="
+          text-base
+          ">
+            text-left
+          </p>
+          <p className="
+          text-base
+          ">
+            text-center
+          </p>
+          <p className="
+          text-base
+          ">
+            text-right
+          </p>
+          <p className="
+          text-base
+          ">
+            text-justify
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Text Align:
+          </p>
+          <p className="
+          text-base
+          ">
+            text-left
+          </p>
+          <p className="
+          text-base
+          ">
+            text-center
+          </p>
+          <p className="
+          text-base
+          ">
+            text-right
+          </p>
+          <p className="
+          text-base
+          ">
+            text-justify
+          </p>
+        </div>
+
       </div>
     </>
   )
