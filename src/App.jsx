@@ -25,6 +25,7 @@ function App() {
             This is where i have learnt about tailwind...
           </p>
         </div>
+
         <div>
           <p className="
           text-base
@@ -52,6 +53,61 @@ function App() {
             hidden
           </p>
         </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Object Fit:
+          </p>
+          <p className="
+          text-base
+          ">
+            object-contain
+          </p>
+          <p className="
+          text-base
+          ">
+            object-cover
+          </p>
+          <p className="
+          text-base
+          ">
+            object-fill
+          </p>
+          <p className="
+          text-base
+          ">
+            object-none
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Position:
+          </p>
+          <p className="
+          text-base
+          ">
+static          </p>
+          <p className="
+          text-base
+          ">
+fixed          </p>
+          <p className="
+          text-base
+          ">
+absolute
+          </p>
+          <p className="
+          text-base
+          ">
+relative
+          </p>
+        </div>
+
       </div>
     </>
   )
