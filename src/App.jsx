@@ -1,3 +1,5 @@
+import flexer from "./components/flex";
+
 function App() {
   return (
     <>
@@ -17,13 +19,16 @@ function App() {
           <h1 className="
           text-4xl
           ">
-            Welcome To TailwindCSS
+            Welcome to my template TailwindCSS Project
           </h1>
           <p className="
           text-base
           ">
-            This is where you can learn all about tailwind...
+            This is where i have learnt about tailwind...
           </p>
+        </div>
+        <div>
+          {flexer}
         </div>
       </div>
     </>
