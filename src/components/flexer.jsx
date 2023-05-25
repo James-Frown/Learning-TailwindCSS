@@ -1,10 +1,8 @@
-const flexer = () => {
+function flexer() {
     return (
       <>
         <div className="
-        w-screen 
-        h-screen 
-        bg-red-300
+        bg-blue-300
         ">
           <div className="
           flex 

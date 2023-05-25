@@ -1,5 +1,3 @@
-import flexer from "./components/flex";
-
 function App() {
   return (
     <>
@@ -28,7 +26,7 @@ function App() {
           </p>
         </div>
         <div>
-          {flexer}
+          <flexer />
         </div>
       </div>
     </>
