@@ -91,20 +91,46 @@ function App() {
           <p className="
           text-base
           ">
-static          </p>
+            static          </p>
           <p className="
           text-base
           ">
-fixed          </p>
+            fixed          </p>
           <p className="
           text-base
           ">
-absolute
+            absolute
           </p>
           <p className="
           text-base
           ">
-relative
+            relative
+          </p>
+        </div>
+
+        <div>
+          <p className="
+          text-base
+          ">
+            This is Box Shadow:
+          </p>
+          <p className="
+          text-base
+          ">
+            shadow          </p>
+          <p className="
+          text-base
+          ">
+            shadow-inner          </p>
+          <p className="
+          text-base
+          ">
+            shadow-outline
+          </p>
+          <p className="
+          text-base
+          ">
+            shadow-none
           </p>
         </div>
 
