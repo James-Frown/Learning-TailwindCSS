@@ -26,7 +26,14 @@ function App() {
           </p>
         </div>
 
-        <div>
+        <div className="
+        flex 
+        flex-col 
+        justify-center 
+        text-center 
+        p-4
+        gap-4
+        ">
           <p className="
           text-base
           ">
@@ -54,7 +61,14 @@ function App() {
           </p>
         </div>
 
-        <div>
+        <div className="
+        flex 
+        flex-col 
+        justify-center 
+        text-center 
+        p-4
+        gap-4
+        ">
           <p className="
           text-base
           ">
