@@ -1,4 +1,4 @@
-function cheatsheet() {
+const cheatsheet = () => {
   return (
     <>
       <div className="
