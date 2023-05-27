@@ -1,3 +1,5 @@
+import cheatsheet from "./components/cheatsheet";
+
 function App() {
   return (
     <>
@@ -24,6 +26,9 @@ function App() {
           ">
             This is where i have learnt about tailwind...
           </p>
+        </div>
+        <div>
+          <cheatsheet />
         </div>
       </div>
     </>
