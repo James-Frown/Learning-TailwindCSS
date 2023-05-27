@@ -1,4 +1,4 @@
-function flexer() {
+function cheatsheet() {
     return (
       <>
         <div className="
@@ -23,4 +23,4 @@ function flexer() {
     )
   }
   
-  export default flexer;
+  export default cheatsheet;
